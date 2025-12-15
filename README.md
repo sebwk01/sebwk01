@@ -2,19 +2,20 @@
 
 I am currently working with the company I co-founded in 2020, Company of Things, where I primarily use TypeScript to work with:
 - Front-end:
-  - Vue/Vuetify 
+  - Vue/Vuetify
+  - Tailwind
 - Back-end:
-  - Node
+  - Node.js
   - Nuxt
   - MongoDB/Mongoose
-- Full-stack:
+- Protocols:
   - uWebSocket
   - HTTPS
 
-During my Master's degree in Electronical System Design, which I am finishing summer 2025, I have also worked a lot with:
+During my 5 year Master's degree program in Electronical System Design, which I finished in the summer of 2025, I have also worked a lot with:
 - Python
 - C
-- Go
+- LaTeX
 
 <!--
 **sebwk01/sebwk01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
